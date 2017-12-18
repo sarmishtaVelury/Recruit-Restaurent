@@ -1,0 +1,7 @@
+tensorflow
+keras
+numpy
+scipy
+scikit-learn
+pandas
+fbprophet
